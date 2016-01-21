@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pricing/DataProcess/PriceAnalyzer.cs">
+    <Files>
+      <File FileName="Pricing/HelloWorld.cs" Line="24" Column="15" />
+      <File FileName="Pricing/DataProcess/PriceAnalyzer.cs" Line="19" Column="3" />
+      <File FileName="Pricing/DataProcess/PricingData.cs" Line="16" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
